@@ -39,8 +39,6 @@ I’m a **Mobile App Developer** specialized in **Flutter**, focused on building
 ---
 
 ## 📬 How to Reach Me
-
-## 📬 How to Reach Me
 <br>
 <p align="center">
   <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
