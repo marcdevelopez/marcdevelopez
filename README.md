@@ -16,13 +16,17 @@ I’m a **Mobile App Developer** specialized in **Flutter**, focused on building
 ---
 
 ## 🛠️ Technologies and Tools
+<br>
 
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+<p align="center">
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" /></a>
+  <a href="https://dart.dev"><img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" /></a>
+  <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" /></a>
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" /></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" /></a>
+</p>
+
 
 ---
 
@@ -36,8 +40,18 @@ I’m a **Mobile App Developer** specialized in **Flutter**, focused on building
 
 ## 📬 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/marc-garcia-developez/)
-- [GitHub](https://github.com/marcdevelopez)
+## 📬 How to Reach Me
+<br>
+<p align="center">
+  <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/marc-garcia-developez/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <br><br>
+  <a href="https://www.youtube.com/@marc_developez"><img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" /></a>
+</p>
+
+
+
 
 ---
 
